@@ -184,7 +184,7 @@ img{
     gap: 24px;
 
 }
-.feature-item{
+.feature-info-item{
    width: calc((100% - 72px) / 4); 
 }
 .feature-title{
