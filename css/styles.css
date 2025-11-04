@@ -42,6 +42,8 @@ img{
 
     padding-left: 15px ;
     padding-right: 15px;
+    margin: 0 auto;
+    padding: 0 15px;
 }
 .navigation{
     display: flex;
@@ -185,7 +187,7 @@ img{
 
 }
 .feature-item{
-    flex-basis: calc((100% - 72px) / 4);
+    flex-basis: calc(( 100% - 72px ) / 4);
 }
 .feature-title{
     font-family: "Roboto", sans-serif;  
